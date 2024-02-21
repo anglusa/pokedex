@@ -1,0 +1,10 @@
+configurar o GIT local
+git config --global user.name anglusa
+git config --global user.email otavio.baroni@etec.sp.gov.br
+
+criar um projeto MVC com o c#
+dotnet new mvc --output pokedex
+
+executar o projeto
+cd pokedex
+dotnet watch run
